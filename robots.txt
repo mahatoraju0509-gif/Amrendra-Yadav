@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+
+Sitemap: https://sunuscomedy.com.np/sitemap.xml
+
+# Crawl-delay polite
+Crawl-delay: 10
